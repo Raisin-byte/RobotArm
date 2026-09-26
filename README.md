@@ -1,3 +1,13 @@
+## 🔗 Interactive Project Ecosystem
+* Live Hardware Simulation (Wokwi): [Click to run the firmware and control the servos](https://wokwi.com/projects/476236972528710657)
+* Interactive 3D CAD Model (Onshape): [Click to view and rotate the mechanical assembly in your browser](https://cad.onshape.com/documents/a31142f1375aad96a9fb2c7a/w/c29f1d2e71759c352e2f6a77/e/0f39c6d63ea3bd28ee8bacea?renderMode=0&uiState=6ab7d8e955028798cfaf517c)
+
+## 📦 Repository Structure
+* /main.cpp - Production-grade AVR C++ firmware (Direct timer registers initialization & IK engine).
+* /6_DOF_Robotic_Arm_Assembly.step - Full 3D CAD assembly file for manufacturing and engineering review.
+
+---
+
 # 3-DoF Robotic Arm Control System (Bare-Metal C++)
 
 A high-performance control firmware for a 3-Degree-of-Freedom (3-DoF) robotic manipulator implemented on the ATmega328P microcontroller without any high-level Arduino libraries.
