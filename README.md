@@ -1,5 +1,5 @@
 ## 🔗 Interactive Project Ecosystem
-* Live Hardware Simulation (Wokwi): [Click to run the firmware and control the servos](https://wokwi.com/projects/476236972528710657](https://cad.onshape.com/documents/a31142f1375aad96a9fb2c7a/w/c29f1d2e71759c352e2f6a77/e/0f39c6d63ea3bd28ee8bacea?renderMode=0&uiState=6ab7d8e955028798cfaf517c))
+* Live Hardware Simulation (Wokwi): [Click to run the firmware and control the servos](https://cad.onshape.com/documents/a31142f1375aad96a9fb2c7a/w/c29f1d2e71759c352e2f6a77/e/0f39c6d63ea3bd28ee8bacea?renderMode=0&uiState=6ab7d8e955028798cfaf517c)
 * Interactive 3D CAD Model (Onshape): [Click to view and rotate the mechanical assembly in your browser](https://cad.onshape.com/documents/a31142f1375aad96a9fb2c7a/w/c29f1d2e71759c352e2f6a77/e/0f39c6d63ea3bd28ee8bacea?renderMode=0&uiState=6ab7d8e955028798cfaf517c)
 
 ## 📦 Repository Structure
